@@ -1,0 +1,830 @@
+{
+  "Group A": {
+    "Table": [
+      {
+        "Italy": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Switzerland": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Turkey": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Wales": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      }
+    ],
+    "Fixtures": {
+      "1": {
+        "Teams": {
+          "Turkey": null,
+          "Italy": null
+        },
+        "Date": [
+          11,
+          "Jun",
+          2021,
+          20,
+          "00"
+        ],
+        "Venue": "Rome"
+      },
+      "2": {
+        "Teams": {
+          "Wales": null,
+          "Switzerland": null
+        },
+        "Date": [
+          12,
+          "Jun",
+          2021,
+          14,
+          "00"
+        ],
+        "Venue": "Baku"
+      },
+      "3": {
+        "Teams": {
+          "Turkey": null,
+          "Wales": null
+        },
+        "Date": [
+          16,
+          "Jun",
+          2021,
+          17,
+          "00"
+        ],
+        "Venue": "Baku"
+      },
+      "4": {
+        "Teams": {
+          "Italy": null,
+          "Switzerland": null
+        },
+        "Date": [
+          16,
+          "Jun",
+          2021,
+          20,
+          "00"
+        ],
+        "Venue": "Rome"
+      },
+      "5": {
+        "Teams": {
+          "Italy": null,
+          "Wales": null
+        },
+        "Date": [
+          20,
+          "Jun",
+          2021,
+          17,
+          "00"
+        ],
+        "Venue": "Rome"
+      },
+      "6": {
+        "Teams": {
+          "Switzerland": null,
+          "Turkey": null
+        },
+        "Date": [
+          20,
+          "Jun",
+          2021,
+          17,
+          "00"
+        ],
+        "Venue": "Baku"
+      }
+    }
+  },
+  "Group B": {
+    "Table": [
+      {
+        "Belguim": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Denmark": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Finland": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Russia": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      }
+    ],
+    "Fixtures": {
+      "1": {
+        "Teams": {
+          "Denmark": null,
+          "Finland": null
+        },
+        "Date": [
+          "12",
+          "Jun",
+          2021,
+          "17",
+          "00"
+        ],
+        "Venue": "Copenhagen"
+      },
+      "2": {
+        "Teams": {
+          "Belgium": null,
+          "Russia": null
+        },
+        "Date": [
+          "12",
+          "Jun",
+          2021,
+          "20",
+          "00"
+        ],
+        "Venue": "St Petersburg"
+      },
+      "3": {
+        "Teams": {
+          "Finland": null,
+          "Russia": null
+        },
+        "Date": [
+          "16",
+          "Jun",
+          2021,
+          "14",
+          "00"
+        ],
+        "Venue": "St Petersburg"
+      },
+      "4": {
+        "Teams": {
+          "Denmark": null,
+          "Belgium": null
+        },
+        "Date": [
+          "17",
+          "Jun",
+          2021,
+          "17",
+          "00"
+        ],
+        "Venue": "Copenhagen"
+      },
+      "5": {
+        "Teams": {
+          "Finland": null,
+          "Belguim": null
+        },
+        "Date": [
+          "21",
+          "Jun",
+          2021,
+          "20",
+          "00"
+        ],
+        "Venue": "St Petersburg"
+      },
+      "6": {
+        "Teams": {
+          "Russia": null,
+          "Denmark": null
+        },
+        "Date": [
+          "21",
+          "Jun",
+          2021,
+          "20",
+          "00"
+        ],
+        "Venue": "Copenhagen"
+      }
+    }
+  },
+  "Group C": {
+    "Table": [
+      {
+        "Austria": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Netherlands": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "North Macedonia": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Ukraine": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      }
+    ],
+    "Fixtures": {
+      "1": {
+        "Teams": {
+          "Austria": null,
+          "North Macedonia": null
+        },
+        "Date": [
+          13,
+          "Jun",
+          2021,
+          17,
+          "00"
+        ],
+        "Venue": "Bucharest"
+      },
+      "2": {
+        "Teams": {
+          "Netherlands": null,
+          "Ukraine": null
+        },
+        "Date": [
+          13,
+          "Jun",
+          2021,
+          20,
+          "00"
+        ],
+        "Venue": "Amsterdam"
+      },
+      "3": {
+        "Teams": {
+          "Ukraine": null,
+          "North Macedonia": null
+        },
+        "Date": [
+          17,
+          "Jun",
+          2021,
+          14,
+          "00"
+        ],
+        "Venue": "Bucharest"
+      },
+      "4": {
+        "Teams": {
+          "Netherlands": null,
+          "Austria": null
+        },
+        "Date": [
+          17,
+          "Jun",
+          2021,
+          20,
+          "00"
+        ],
+        "Venue": "Amsterdam"
+      },
+      "5": {
+        "Teams": {
+          "Ukraine": null,
+          "Austria": null
+        },
+        "Date": [
+          21,
+          "Jun",
+          2021,
+          6,
+          "00"
+        ],
+        "Venue": "Bucharest"
+      },
+      "6": {
+        "Teams": {
+          "North Macedonia": null,
+          "Netherlands": null
+        },
+        "Date": [
+          21,
+          "Jun",
+          2021,
+          17,
+          "00"
+        ],
+        "Venue": "Amsterdam"
+      }
+    }
+  },
+  "Group D": {
+    "Table": [
+      {
+        "Croatia": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Czech Republic": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "England": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Scotland": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      }
+    ],
+    "Fixtures": {
+      "1": {
+        "Teams": {
+          "England": null,
+          "Croatia": null
+        },
+        "Date": [
+          13,
+          "Jun",
+          2021,
+          14,
+          "00"
+        ],
+        "Venue": "London"
+      },
+      "2": {
+        "Teams": {
+          "Scotland": null,
+          "Czech Republic": null
+        },
+        "Date": [
+          14,
+          "Jun",
+          2021,
+          14,
+          "00"
+        ],
+        "Venue": "Glasgow"
+      },
+      "3": {
+        "Teams": {
+          "Croatia": null,
+          "Czech Republic": null
+        },
+        "Date": [
+          18,
+          "Jun",
+          2021,
+          17,
+          "00"
+        ],
+        "Venue": "Glasgow"
+      },
+      "4": {
+        "Teams": {
+          "England": null,
+          "Scotland": null
+        },
+        "Date": [
+          18,
+          "Jun",
+          2021,
+          20,
+          "00"
+        ],
+        "Venue": "London"
+      },
+      "5": {
+        "Teams": {
+          "Czech Republic": null,
+          "England": null
+        },
+        "Date": [
+          22,
+          "Jun",
+          2021,
+          20,
+          "00"
+        ],
+        "Venue": "London"
+      },
+      "6": {
+        "Teams": {
+          "Croatia": null,
+          "Scotland": null
+        },
+        "Date": [
+          22,
+          "Jun",
+          2021,
+          20,
+          "00"
+        ],
+        "Venue": "Glasgow"
+      }
+    }
+  },
+  "Group E": {
+    "Table": [
+      {
+        "Poland": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Slovakia": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Spain": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Sweden": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      }
+    ],
+    "Fixtures": {
+      "1": {
+        "Teams": {
+          "Poland": null,
+          "Slovakia": null
+        },
+        "Date": [
+          14,
+          "Jun",
+          2021,
+          17,
+          "00"
+        ],
+        "Venue": "St Petersburg"
+      },
+      "2": {
+        "Teams": {
+          "Spain": null,
+          "Sweden": null
+        },
+        "Date": [
+          14,
+          "Jun",
+          2021,
+          20,
+          "00"
+        ],
+        "Venue": "Seville"
+      },
+      "3": {
+        "Teams": {
+          "Sweden": null,
+          "Slovakia": null
+        },
+        "Date": [
+          18,
+          "Jun",
+          2021,
+          14,
+          "00"
+        ],
+        "Venue": "St Petersburg"
+      },
+      "4": {
+        "Teams": {
+          "Spain": null,
+          "Poland": null
+        },
+        "Date": [
+          19,
+          "Jun",
+          2021,
+          20,
+          "00"
+        ],
+        "Venue": "Seville"
+      },
+      "5": {
+        "Teams": {
+          "Sweden": null,
+          "Poland": null
+        },
+        "Date": [
+          23,
+          "Jun",
+          2021,
+          17,
+          "00"
+        ],
+        "Venue": "St Petersburg"
+      },
+      "6": {
+        "Teams": {
+          "Slovakia": null,
+          "Spain": null
+        },
+        "Date": [
+          23,
+          "Jun",
+          2021,
+          17,
+          "00"
+        ],
+        "Venue": "Seville"
+      }
+    }
+  },
+  "Group F": {
+    "Table": [
+      {
+        "France": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Germany": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Hungary": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      },
+      {
+        "Portugal": {
+          "Played": 0,
+          "Won": 0,
+          "Draw": 0,
+          "Lost": 0,
+          "PF": 0,
+          "PA": 0,
+          "PD": 0,
+          "Points": 0
+        }
+      }
+    ],
+    "Fixtures": {
+      "1": {
+        "Teams": {
+          "Hungary": null,
+          "Portugal": null
+        },
+        "Date": [
+          15,
+          "Jun",
+          2021,
+          17,
+          "00"
+        ],
+        "Venue": "Budapest"
+      },
+      "2": {
+        "Teams": {
+          "France": null,
+          "Germany": null
+        },
+        "Date": [
+          15,
+          "Jun",
+          2021,
+          20,
+          "00"
+        ],
+        "Venue": "Munich"
+      },
+      "3": {
+        "Teams": {
+          "Hungary": null,
+          "France": null
+        },
+        "Date": [
+          19,
+          "Jun",
+          2021,
+          14,
+          "00"
+        ],
+        "Venue": "Budapest"
+      },
+      "4": {
+        "Teams": {
+          "Portugal": null,
+          "Germany": null
+        },
+        "Date": [
+          19,
+          "Jun",
+          2021,
+          17,
+          "00"
+        ],
+        "Venue": "Munich"
+      },
+      "5": {
+        "Teams": {
+          "Germany": null,
+          "Hungary": null
+        },
+        "Date": [
+          23,
+          "Jun",
+          2021,
+          20,
+          "00"
+        ],
+        "Venue": "Munich"
+      },
+      "6": {
+        "Teams": {
+          "Portugal": null,
+          "France": null
+        },
+        "Date": [
+          23,
+          "Jun",
+          2021,
+          20,
+          "00"
+        ],
+        "Venue": "Budapest"
+      }
+    }
+  }
+}

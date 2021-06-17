@@ -1,0 +1,20 @@
+[[package]]
+category = "main"
+description = "Read key-value pairs from a .env file and set them as environment variables"
+name = "python-dotenv"
+optional = false
+python-versions = "*"
+version = "0.17.1"
+
+[package.extras]
+cli = ["click (>=5.0)"]
+
+[metadata]
+content-hash = "654eb1b937bd691d7d695d642b587380aa89fd491a72860580d1d2ad9bf228ec"
+python-versions = "^3.8"
+
+[metadata.files]
+python-dotenv = [
+    {file = "python-dotenv-0.17.1.tar.gz", hash = "sha256:b1ae5e9643d5ed987fc57cc2583021e38db531946518130777734f9589b3141f"},
+    {file = "python_dotenv-0.17.1-py2.py3-none-any.whl", hash = "sha256:00aa34e92d992e9f8383730816359647f358f4a3be1ba45e5a5cefd27ee91544"},
+]

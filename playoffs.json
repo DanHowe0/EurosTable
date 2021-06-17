@@ -1,0 +1,44 @@
+{
+  "Round of 16": {
+    "1": {
+      "Teams": {},
+      "Date": [26, "Jun", 2021, 1800],
+      "Venue": "Amsterdam"
+    },
+    "2": {
+      "Teams": {},
+      "Date": [26, "Jun", 2021, 2100],
+      "Venue": "London"
+    },
+    "3": {
+      "Teams": {},
+      "Date": [27, "Jun", 2021, 1800],
+      "Venue": "Budapest"
+    },
+    "4": {
+      "Teams": {},
+      "Date": [27, "Jun", 2021, 2100],
+      "Venue": "Seville"
+    },
+    "5": {
+      "Teams": {},
+      "Date": [28, "Jun", 2021, 1800],
+      "Venue": "Copenhagen"
+    },
+    "6": {
+      "Teams": {},
+      "Date": [28, "Jun", 2021, 2100],
+      "Venue": "Bucharest"
+    },
+    "7": {
+      "Teams": {},
+      "Date": [29, "Jun", 2021, 1800],
+      "Venue": "London"
+    },
+    "8": {
+      "Teams": {},
+      "Date": [29, "Jun", 2021, 2100],
+      "Venue": "Glasgow"
+    }
+  }
+}
